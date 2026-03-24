@@ -30,5 +30,6 @@ Gemfile.lock
 # GitHub Actions
 .github/workflows/*
 
+!assets/images/*
 # VS Code specific settings
 .vscode/
