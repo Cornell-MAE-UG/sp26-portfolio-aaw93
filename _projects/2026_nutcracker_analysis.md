@@ -3,6 +3,7 @@ layout: project
 title: Analysis of Nutcracker
 description: Class project with Graphs
 technologies: [MATLAB, python]
+permalink: /projects/2026_nutcracker_analysis/
 image: /assets/images/function-graph.png
 ---
 
