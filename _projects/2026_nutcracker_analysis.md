@@ -11,3 +11,6 @@ For a class project in Statics and Mechanics of Solids at Cornell we were tasked
 Below is my complete analysis.
 ![Nutcracker diagram]({{ site.baseurl }}/assets/images/nutrackerportfolio-images-0.jpg)
 ![Nutcracker diagram]({{ site.baseurl }}/assets/images/nutrackerportfolio-images-1.jpg)
+![Nutcracker diagram]({{ site.baseurl }}/assets/images/IMG_0061.jpeg)
+![Nutcracker diagram]({{ site.baseurl }}/assets/images/IMG_0062.jpeg)
+![Nutcracker diagram]({{ site.baseurl }}/assets/images/IMG_0063.jpeg)
